@@ -1,0 +1,10 @@
+C:\Users\gatita y gato\source\repos\ping-pon\ping-pon\bin\Debug\ping-pon.exe.config
+C:\Users\gatita y gato\source\repos\ping-pon\ping-pon\bin\Debug\ping-pon.exe
+C:\Users\gatita y gato\source\repos\ping-pon\ping-pon\bin\Debug\ping-pon.pdb
+C:\Users\gatita y gato\source\repos\ping-pon\ping-pon\obj\Debug\ping-pon.csprojAssemblyReference.cache
+C:\Users\gatita y gato\source\repos\ping-pon\ping-pon\obj\Debug\ping_pon.Form1.resources
+C:\Users\gatita y gato\source\repos\ping-pon\ping-pon\obj\Debug\ping_pon.Properties.Resources.resources
+C:\Users\gatita y gato\source\repos\ping-pon\ping-pon\obj\Debug\ping-pon.csproj.GenerateResource.cache
+C:\Users\gatita y gato\source\repos\ping-pon\ping-pon\obj\Debug\ping-pon.csproj.CoreCompileInputs.cache
+C:\Users\gatita y gato\source\repos\ping-pon\ping-pon\obj\Debug\ping-pon.exe
+C:\Users\gatita y gato\source\repos\ping-pon\ping-pon\obj\Debug\ping-pon.pdb
